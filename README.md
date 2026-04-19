@@ -90,10 +90,10 @@ npm run test
 ---
 
 ## ☁️ Deployment Status
-Prepare your environment for production deployment (Render & Vercel) by following the **[Deployment Guide](docs/DEPLOYMENT.md)**.
+SpendWise is fully deployed across the following production environments:
 
-- **Backend (API)**: [Pending Deployment]
-- **Frontend (UI)**: [Pending Deployment]
+- **Backend (API)**: [Render Node](https://spendwise-personal-finance-tracker.onrender.com)
+- **Frontend (UI)**: [Vercel Edge](https://spend-wise-personal-finance-tracker.vercel.app/)
 
 ---
 
