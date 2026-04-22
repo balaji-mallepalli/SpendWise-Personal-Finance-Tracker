@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="frontend/public/logo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="frontend/public/logo-light.png">
-  <img alt="SpendWise Logo" src="frontend/public/logo-light.png" width="120">
+  <img alt="SpendWise Logo" src="frontend/public/logo-dark.png" width="120">
 </picture>
 
 # SpendWise
